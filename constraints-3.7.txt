@@ -241,7 +241,7 @@ gitdb==4.0.9
 github3.py==3.0.0
 google-ads==16.0.0
 google-api-core==1.31.5
-google-api-python-client==1.12.8
+google-api-python-client==2.52.0
 google-auth-httplib2==0.1.0
 google-auth-oauthlib==0.4.6
 google-auth==1.35.0
